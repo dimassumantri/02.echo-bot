@@ -1,0 +1,3 @@
+Error while connecting to MySQL
+2021-04-22
+SELECT a.SITE_ID,BSC_ID,BCF_ID FROM isat_report.susy_2gperfcell a where (xdate = '2021-04-21' and xhour = 11 ) or (xdate = '2021-04-21' and xhour = 18 ) group by a.SITE_ID;
