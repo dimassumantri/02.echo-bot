@@ -12,4 +12,4 @@ class DefaultConfig:
 
     PORT = 3978
     APP_ID = os.environ.get("7d07150e-1682-4c90-ba5f-575f5569a06a", "")
-    APP_PASSWORD = os.environ.get("nYkxfkGOXw.HGXl6986d1-s4K_-_4jRY~w", "")
+    APP_PASSWORD = os.environ.get("YASw2BTHr4fgk4_8Y72BtQzNj.zt-_dv6w", "")
