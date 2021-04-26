@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'NPA'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_7f67bd004c4c46ee8b79c082d55009e1 }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_73170c48e2d7472dae7004fa1e0acd86 }}
