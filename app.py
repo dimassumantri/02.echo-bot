@@ -26,7 +26,7 @@ CONFIG = DefaultConfig()
 
 # Create adapter.
 # See https://aka.ms/about-bot-adapter to learn more about how bots work.
-SETTINGS = BotFrameworkAdapterSettings(CONFIG.APP_ID, CONFIG.APP_PASSWORD)
+SETTINGS = BotFrameworkAdapterSettings("3b6b88c3-b5e7-4202-9c65-e69d65e91220", "i4zTeVCDBKAPJGO6d.-_.B-6Vi05BR5mKk")
 ADAPTER = BotFrameworkAdapter(SETTINGS)
 
 
